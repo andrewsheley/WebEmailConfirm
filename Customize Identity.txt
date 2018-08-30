@@ -1,9 +1,15 @@
 URL:
+https://www.youtube.com/watch?v=tW5QwWPKXaY
+https://www.youtube.com/watch?v=Oaer6dFRFwQ
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/add-user-data?view=aspnetcore-2.1&tabs=visual-studio
 https://gavilan.blog/2018/04/11/adding-columns-to-aspnetusers-table-in-asp-net-core-2-0/
 https://stackoverflow.com/questions/50428103/changing-identityuser-type-in-asp-net-core-2-1
 
 
 https://gavilan.blog/2018/04/11/adding-columns-to-aspnetusers-table-in-asp-net-core-2-0/
+
+
+
 
 
 Add ApplicationUser class with custom columns
@@ -13,7 +19,7 @@ Create migration/update database
 Update startup class
 
 
-Update login_partial view
+****Update login_partial view  update to applciationuser in *.cs but leave idenityuser in *.cshtml
 
 
 Update manage profile page

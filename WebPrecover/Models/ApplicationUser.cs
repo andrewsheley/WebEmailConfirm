@@ -8,6 +8,7 @@ namespace WebPrecover.Models
 {
     public class ApplicationUser : IdentityUser
     {
+        [PersonalData]
         public DateTime DateOfBirth { get; set; }
     }
 }
