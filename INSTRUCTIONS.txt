@@ -1,0 +1,17 @@
+URL Links:
+https://medium.com/@kevinrodrguez/enabling-email-verification-in-asp-net-core-identity-ui-2-1-b87f028a97e0
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm?view=aspnetcore-2.1&tabs=visual-studio
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio#useauthentication
+
+ 
+Create app with individual accounts
+Scaffold idenity add register and forgot password
+add sendgrid nuget
+create IEmailSender class using send grid
+
+code first database create migration/update database  create was already there
+
+
+set configuration in startup to require email confirmation, comment out signin on register method

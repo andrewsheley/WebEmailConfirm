@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPrecover", "WebPrecover\WebPrecover.csproj", "{E33FEEAF-E90C-49C4-AE17-1136ACAFD655}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{162A4823-5220-4967-80D6-65D431255A55}"
+	ProjectSection(SolutionItems) = preProject
+		INSTRUCTIONS.txt = INSTRUCTIONS.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33FEEAF-E90C-49C4-AE17-1136ACAFD655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33FEEAF-E90C-49C4-AE17-1136ACAFD655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33FEEAF-E90C-49C4-AE17-1136ACAFD655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33FEEAF-E90C-49C4-AE17-1136ACAFD655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B627344C-1DB1-450A-93A0-F95987742F18}
+	EndGlobalSection
+EndGlobal
