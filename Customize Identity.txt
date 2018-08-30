@@ -1,0 +1,20 @@
+URL:
+https://gavilan.blog/2018/04/11/adding-columns-to-aspnetusers-table-in-asp-net-core-2-0/
+https://stackoverflow.com/questions/50428103/changing-identityuser-type-in-asp-net-core-2-1
+
+
+https://gavilan.blog/2018/04/11/adding-columns-to-aspnetusers-table-in-asp-net-core-2-0/
+
+
+Add ApplicationUser class with custom columns
+
+Create migration/update database
+
+Update startup class
+
+
+Update login_partial view
+
+
+Update manage profile page
+

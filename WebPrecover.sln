@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPrecover", "WebPrecover\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{162A4823-5220-4967-80D6-65D431255A55}"
 	ProjectSection(SolutionItems) = preProject
+		Customize Identity.txt = Customize Identity.txt
 		INSTRUCTIONS.txt = INSTRUCTIONS.txt
 	EndProjectSection
 EndProject

@@ -14,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using WebPrecover.Areas.Identity.Services;
+using WebPrecover.Models;
 
 namespace WebPrecover
 {
@@ -40,7 +41,7 @@ namespace WebPrecover
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddDefaultIdentity<IdentityUser>(config =>
+            services.AddDefaultIdentity<ApplicationUser>(config =>
                 {
                     config.SignIn.RequireConfirmedEmail = true;
                 })
